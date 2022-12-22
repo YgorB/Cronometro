@@ -1,1 +1,3 @@
-# Cronometro
+# Cronometro.
+
+Não está funcional
